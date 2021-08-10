@@ -11,6 +11,7 @@ if uploaded_file:
     st.dataframe(dados)
     st.table(dados)
 
+
 #     #df.loc[:, ~df.columns.str.contains('^Unnamed')]
 #     st.dataframe(df)
 #     st.table(df)
