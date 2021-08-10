@@ -14,6 +14,3 @@ if uploaded_file:
 #     #df.loc[:, ~df.columns.str.contains('^Unnamed')]
 #     st.dataframe(df)
 #     st.table(df)
-
-
-# print(dados)
